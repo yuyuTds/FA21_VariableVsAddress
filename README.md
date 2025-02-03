@@ -6,5 +6,5 @@
 - [FA18_RevA.pdf](https://github.com/yuyuTds/FA21_VariableVsAddress/blob/main/FA21_RevA.pdf)
 
 ## お願い
-- 「#変数vsアドレス」というタグでXにてポストいただけると嬉しいです！
+- みなさんの意見を聞いてみたく、「#変数vsアドレス」というタグで、さまざまなご意見をツイートいただけると嬉しいです！
 - 質問、疑問がありましたら、Issuesにてコメントいただけますと幸いです。
